@@ -1,0 +1,22 @@
+{
+  "name": "dota-2-draft-toolkit",
+  "displayName": "Dota 2 Draft Toolkit",
+  "programType": "draft-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Hero groups",
+    "Team compositions",
+    "Match notes"
+  ],
+  "topics": [
+    "dota-2-draft-toolkit",
+    "dota-2-tools",
+    "dota-2-menu",
+    "dota-2-settings",
+    "dota-2-configs",
+    "dota-2-hero-groups",
+    "dota-2-team-compositions"
+  ]
+}
